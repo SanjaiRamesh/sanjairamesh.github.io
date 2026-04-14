@@ -1,0 +1,10 @@
+title: Ramesh Boopathi
+description: Staff / Principal Software Engineer | Distributed Systems | Payments | AWS | Java
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - architecture.md
+  - blog.md
+  - contact.md
