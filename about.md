@@ -1,11 +1,12 @@
 ---
-layout: home
+layout: page
 title: About
+permalink: /about/
 ---
-# Ramesh Boopathi
+
+## Ramesh Boopathi
 
 ### Staff / Principal Software Engineer | Distributed Systems | Payments | AWS | Java
-
 ---
 
 ## About Me
