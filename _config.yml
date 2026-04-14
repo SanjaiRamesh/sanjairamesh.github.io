@@ -1,10 +1,67 @@
 title: Ramesh Boopathi
-description: Staff / Principal Software Engineer | Distributed Systems | Payments | AWS | Java
+email: sanjai.ramesh@gmail.com
+description: >-
+  Principal Software Engineer | Distributed Systems | Payments | AWS | Java.
+  Portfolio, architecture case studies, technical leadership, and engineering blog.
+
+baseurl: ""
+url: "https://ramesh.github.io"
+
 theme: minima
+
+author:
+  name: Ramesh Boopathi
+
+linkedin_username: ramesh-boopathi-7a840130
+github_username: SanjaiRamesh
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+
+show_excerpts: true
 
 header_pages:
   - about.md
   - projects.md
   - architecture.md
   - blog.md
+  - leadership.md
   - contact.md
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  architecture:
+    output: true
+    permalink: /architecture/:name/
+  leadership:
+    output: true
+    permalink: /leadership/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "architecture"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "leadership"
+    values:
+      layout: page
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
