@@ -1,11 +1,12 @@
 ---
-layout: home
-title: about
+layout: page
+title: About
+permalink: /about/
 ---
-# Ramesh Boopathi
+
+## Ramesh Boopathi
 
 ### Staff / Principal Software Engineer | Distributed Systems | Payments | AWS | Java
-
 ---
 
 ## About Me
@@ -188,43 +189,47 @@ Currently contributing to high-throughput financial platforms at **JPMorgan Chas
 
 ## Technology Stack
 
-Languages
+### Languages
+- Java
+- SQL
 
-Java, SQL
+### Frameworks
+- Spring Boot
+- Spring Cloud
+- Hibernate
+- JPA
 
-Frameworks
+### Cloud & Infrastructure
+- AWS (EKS, EC2, S3, RDS, IAM)
+- Docker
+- Kubernetes
 
-Spring Boot, Spring Cloud, Hibernate, JPA
+### Messaging & Streaming
+- Kafka
 
-Cloud & Infrastructure
+### Databases
+- Oracle
+- PostgreSQL
+- Cassandra
 
-AWS (EKS, EC2, S3, RDS, IAM)
+### DevOps & CI/CD
+- Jenkins
+- Spinnaker
+- Git
+- Bitbucket
 
-Docker, Kubernetes
+### Observability
+- Splunk
+- Grafana
+- CloudWatch
 
-Messaging & Streaming
+### Testing & Performance
+- JUnit
+- JMeter
 
-Kafka
-
-Databases
-
-Oracle, PostgreSQL, Cassandra
-
-DevOps & CI/CD
-
-Jenkins, Spinnaker, Git, Bitbucket
-
-Observability
-
-Splunk, Grafana, CloudWatch
-
-Testing & Performance
-
-JUnit, JMeter
-
-Tools
-
-JIRA, Confluence
+### Tools
+- JIRA
+- Confluence
 
 ---
 
@@ -245,10 +250,3 @@ LinkedIn
 GitHub
 
 [https://github.com/SanjaiRamesh](https://github.com/SanjaiRamesh)
-
-
-Explore:
-- Projects
-- Architecture
-- Blog
-- Contact

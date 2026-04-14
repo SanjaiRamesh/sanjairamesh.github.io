@@ -19,7 +19,7 @@ permalink: /blog/:title/
 show_excerpts: true
 
 header_pages:
-  - about.md
+  - index.md
   - projects.md
   - architecture.md
   - blog.md
