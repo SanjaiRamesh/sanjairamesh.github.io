@@ -5,23 +5,21 @@ description: >-
   Portfolio, architecture case studies, technical leadership, and engineering blog.
 
 baseurl: ""
-url: "https://sanjairamesh.github.io"
+url: "https://ramesh.github.io"
 
 theme: minima
-markdown: kramdown
-highlighter: rouge
-permalink: /blog/:title/
-show_excerpts: true
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 author:
   name: Ramesh Boopathi
 
 linkedin_username: ramesh-boopathi-7a840130
 github_username: SanjaiRamesh
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+
+show_excerpts: true
 
 header_pages:
   - about.md
@@ -63,3 +61,7 @@ defaults:
       type: "leadership"
     values:
       layout: page
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
