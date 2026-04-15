@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mentoring Engineers at Scale
-permalink: /_leadership/engineering-mentorship.md
+permalink: /leadership/engineering-mentorship/
 ---
 
 My approach to design reviews, coding standards, and technical growth across teams.
