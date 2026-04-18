@@ -26,7 +26,7 @@ Design patterns and implementation examples for building resilient, scalable bac
 - API gateway patterns
 - Event-driven architecture fundamentals
 
-GitHub: https://github.com/SanjaiRamesh/distributed-systems-design  
+[GitHub Repository](https://github.com/SanjaiRamesh/distributed-systems-design)  
 
 
 ---
@@ -64,8 +64,7 @@ Production-oriented implementation of common design patterns used in scalable ba
 - Template Pattern
 - Observer Pattern
 
-GitHub:
-https://github.com/SanjaiRamesh/java-design-patterns  
+[GitHub Repository](https://github.com/SanjaiRamesh/java-design-patterns)  
 
 ---
 
@@ -85,8 +84,7 @@ Collection of coding exercises based on real backend scenarios.
 
 Focus on writing clean, maintainable, and extensible code.
 
-GitHub:
-https://github.com/SanjaiRamesh/java-data-structures-algorithms  
+[GitHub Repository](https://github.com/SanjaiRamesh/java-data-structures-algorithms)  
 
 ---
 
