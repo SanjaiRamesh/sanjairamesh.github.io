@@ -7,7 +7,8 @@ theme: minima
 
 author:
   name: Ramesh Boopathi
-
+minima:
+  skin: classic  
 linkedin_username: ramesh-boopathi-7a840130
 github_username: SanjaiRamesh
 
