@@ -5,44 +5,47 @@ title: Home
 
 ## Ramesh Boopathi
 
-### Staff / Principal Software Engineer | Distributed Systems | Payments | AWS | Java
+### Staff / Principal Software Engineer | Distributed Systems | Payments | FinTech | AWS | Java
 ---
 ## About Me
 
-Engineering leader with **14+ years of experience** building scalable, secure, and high-performance backend systems across **FinTech, Payments, Banking, and Telecom** domains. Specialized in **Java, Spring Boot microservices, event-driven architecture (Kafka), and AWS cloud-native platforms**.
+Engineering leader with **14+ years of experience** designing **scalable distributed systems** across **FinTech, Payments, Banking, and Telecom** domains. Expert in **Java, Spring Boot microservices, Kafka event-driven architecture, and AWS cloud-native platforms**, delivering reliable systems operating at high transaction volumes.
 
-Proven track record in **modernizing monolithic systems to microservices**, improving system reliability, reducing latency, and enabling faster delivery through **CI/CD and DevOps practices**. Passionate about **platform engineering, developer experience, and mentoring engineers** to build resilient distributed systems at scale.
+Led modernization initiatives transforming **on-premise monolithic platforms into cloud-native microservices**, coordinating across engineering, product, SRE, and infrastructure teams to ensure **zero customer impact** during migration. Strong track record improving **system reliability, scalability, latency, and deployment velocity** through **CI/CD, observability, and resilient architecture patterns**.
 
-Currently contributing to high-throughput financial platforms at **JPMorgan Chase**, supporting global remittance and transaction processing systems.
+Passionate about **platform engineering, clean architecture, and developer experience**, with a focus on simplifying complex systems and enabling teams to deliver high-quality software faster.
+
+Currently building **high-throughput payment and remittance platforms at JPMorgan Chase**, supporting global financial transactions at scale.
 
 ---
 
-## Core Expertise
+### Distributed Systems & Platform Architecture
 
-### Distributed Systems & Architecture
+- Microservices architecture & domain-driven design
+- Event-driven systems (Kafka, asynchronous processing)
+- High availability, resilience & fault-tolerant design
+- API platform engineering & integration patterns
+- Performance optimisation & scalability engineering
+- Designed systems supporting high-throughput financial transactions
+- Secure system design (OAuth2, mTLS, IAM, encryption)
 
-- Microservices architecture design
-- Event-driven architecture (Kafka)
-- High availability & fault-tolerant systems
-- API platform engineering
-- Performance optimization & scalability design
-- Secure system design (OAuth2, mTLS, IAM)
-
-### Cloud & DevOps
+### Cloud, DevOps & Observability
 
 - AWS cloud architecture (EKS, EC2, S3, RDS, IAM)
-- Containerization (Docker, Kubernetes)
-- CI/CD automation (Jenkins, Spinnaker)
-- Infrastructure modernization (on-prem → AWS)
-- Observability (Splunk, Grafana, CloudWatch)
+- Container platforms (Docker, Kubernetes)
+- CI/CD pipelines (Jenkins, Spinnaker, Git workflows)
+- Led migration of on-prem services to AWS cloud-native architecture with zero client impact
+- Observability & monitoring (Splunk, Grafana, CloudWatch)
+- Production performance tuning & incident troubleshooting
 
-### Engineering Leadership
+### Technical Leadership & Engineering Excellence
 
-- Technical leadership & architecture decisions
-- Mentoring engineers and guiding best practices
+- Driving architecture decisions and technical strategy
+- Mentoring engineers and improving engineering standards
+- Leading design reviews and promoting clean architecture principles
 - Cross-team collaboration with Product, SRE, Platform teams
-- Driving coding standards and design reviews
-- Improving developer productivity and system reliability
+- Improving developer productivity and delivery reliability
+- Coordinating multi-team initiatives ensuring alignment and seamless delivery
 
 ---
 

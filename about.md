@@ -11,11 +11,13 @@ permalink: /about/
 
 ## About Me
 
-Engineering leader with **14+ years of experience** building scalable, secure, and high-performance backend systems across **FinTech, Payments, Banking, and Telecom** domains. Specialized in **Java, Spring Boot microservices, event-driven architecture (Kafka), and AWS cloud-native platforms**.
+Engineering leader with **14+ years of experience** designing **scalable distributed systems** across **FinTech, Payments, Banking, and Telecom** domains. Expert in **Java, Spring Boot microservices, Kafka event-driven architecture, and AWS cloud-native platforms**, delivering reliable systems operating at high transaction volumes.
 
-Proven track record in **modernizing monolithic systems to microservices**, improving system reliability, reducing latency, and enabling faster delivery through **CI/CD and DevOps practices**. Passionate about **platform engineering, developer experience, and mentoring engineers** to build resilient distributed systems at scale.
+Led modernization initiatives transforming **on-premise monolithic platforms into cloud-native microservices**, coordinating across engineering, product, SRE, and infrastructure teams to ensure **zero customer impact** during migration. Strong track record improving **system reliability, scalability, latency, and deployment velocity** through **CI/CD, observability, and resilient architecture patterns**.
 
-Currently contributing to high-throughput financial platforms at **JPMorgan Chase**, supporting global remittance and transaction processing systems.
+Passionate about **platform engineering, clean architecture, and developer experience**, with a focus on simplifying complex systems and enabling teams to deliver high-quality software faster.
+
+Currently building **high-throughput payment and remittance platforms at JPMorgan Chase**, supporting global financial transactions at scale.
 
 ---
 
