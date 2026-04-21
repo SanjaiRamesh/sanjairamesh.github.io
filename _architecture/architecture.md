@@ -2,6 +2,7 @@
 layout: page
 title: Architecture
 permalink: /architecture/
+hide_title: true
 ---
 
 ## System Design & Architecture

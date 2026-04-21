@@ -2,9 +2,6 @@
 layout: home
 title: ""
 ---
-
-## Ramesh Boopathi
-
 ### **Staff / Principal Software Engineer** | **Distributed Systems** | **Payments** | **FinTech** | **AWS** | **Java**
 
 ---

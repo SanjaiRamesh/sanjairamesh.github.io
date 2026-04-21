@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+hide_title: true
 ---
 
 ## Featured Engineering Projects
