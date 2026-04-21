@@ -15,12 +15,10 @@ github_username: SanjaiRamesh
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title/
+
 header_pages:
   - projects.md
   - architecture.md
-  - blog.md
-  - leadership.md
-  - contact.md
 show_excerpts: true
 
 collections:
