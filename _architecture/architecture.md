@@ -26,7 +26,7 @@ Design approaches for global payment platforms.
 
 Topics:
 
-- payment workflow orchestration
+- payment workflow orchestration [GitHub Repository: payment workflow orchestration](https://github.com/SanjaiRamesh/fintech-architecture/payment-workflow-orchestration)  
 - ledger consistency models
 - idempotent transaction processing
 - reconciliation workflows
