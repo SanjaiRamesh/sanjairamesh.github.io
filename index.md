@@ -14,9 +14,6 @@ At JPMC I work on backend systems processing over a million payment transactions
 
 I care about systems that are easy to reason about **under pressure — clean idempotency boundaries, observable failure modes, and services** that degrade gracefully when a downstream provider does not.
 
-I am looking for Staff or Principal engineer roles at European FinTech and banking companies where payments is the core product. Open to relocation to the Netherlands, Ireland, or the UK. Available within 60 days.
-
-
 ---
 
 ## Core Expertise
