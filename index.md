@@ -8,11 +8,14 @@ title: ""
 
 ## About Me
 
-Backend engineer with **14+ years of experience** building **distributed systems** across **FinTech, Payments, Banking, and Telecom** domains.
+Staff engineer with **14 years** building systems that move money reliably — from telecom **billing platforms** and **card transaction** processing, to the **cross-border remittance** infrastructure I own today at JPMorgan Chase.
 
-I mainly work on designing **microservices**, **REST APIs**, and **event-driven systems** using **Java, Spring Boot, Kafka, and AWS**. Much of my recent work focuses on modernising **legacy platforms** into **cloud-native architectures** and improving reliability of **high-volume financial transaction systems**.
+At JPMC I work on backend systems processing over a million payment transactions a day across **NEFT, RTGS, and IMPS rails**. I own the **service architecture** for remittance workflows, design **event-driven** microservices in **Java and Kafka**, build the **compliance** and **sanctions** workflows that sit between the customer and the **payment network**, and **lead cloud migrations** that need to land with **zero customer impact**.
 
-Currently working on **global remittance and payment platforms** at **JPMorgan Chase**, supporting systems that integrate with multiple internal and external financial services.
+I care about systems that are easy to reason about **under pressure — clean idempotency boundaries, observable failure modes, and services** that degrade gracefully when a downstream provider does not.
+
+I am looking for Staff or Principal engineer roles at European FinTech and banking companies where payments is the core product. Open to relocation to the Netherlands, Ireland, or the UK. Available within 60 days.
+
 
 ---
 
